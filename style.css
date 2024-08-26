@@ -12,10 +12,10 @@
  font-size: 15px;
 }*/
 
-* {
+/** {
     margin: 0px;
     padding: 0px;
-}
+}*/
 
 body {
     background-color: black;
@@ -99,5 +99,5 @@ container1 > fundo0 {
 }
 
 #baixo {
-    margin-top: 100px;
+    m
 }
