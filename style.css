@@ -24,7 +24,7 @@ body {
 
 img {
     width: 500px; 
-    margin-bottom: -100px;
+    margin-bottom: -90px;
     
 }
 #logo {
@@ -34,13 +34,13 @@ img {
 
 #meio {
     margin-bottom: -100px;
-    margin-top: -100px;
+    margin-top: -110px;
    
 }
 
 /*link*/
 a {
-    text-decoration: none;
+    /*text-decoration: none;*/
     color: burlywood;
 }
 
@@ -61,7 +61,7 @@ container1 > fundo0 {
     width: 425px;
     margin-bottom: -165px;
     margin-top: 10px;
-    translate: -45px;
+    
     
     
 }
@@ -74,7 +74,7 @@ container1 > fundo0 {
 #fundo1 {
     width: 425px;
     margin-bottom: -165px;
-    translate: -50px;
+    translate: -23px;
        
 }
 
@@ -86,7 +86,7 @@ container1 > fundo0 {
 #fundo2 {
     width: 425px;
     margin-bottom: -210px;
-    translate: -20px;
+    translate: -23px;
 }
 
 #baixo {
