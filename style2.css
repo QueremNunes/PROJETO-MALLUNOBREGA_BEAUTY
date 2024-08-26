@@ -7,8 +7,12 @@ body {
     font-size: 14px;
 }
 
+#cima {
+    width: 400px;
+}
+
 #social {
-    margin-top: -100px;
+    margin-top: -90px;
 }
 
 #noiva {
