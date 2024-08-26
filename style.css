@@ -24,14 +24,17 @@ body {
 
 img {
     width: 500px; 
-    margin-bottom: -100px;
+    margin-bottom: -150px;
+    
 }
 #logo {
-    width: 50%
+    width: 50%;
+    
 }
 
 #meio {
-    margin-top: -340px;
+    margin-bottom: -100px;
+    margin-top: -100px;
    
 }
 
@@ -57,8 +60,8 @@ container1 > fundo0 {
 #fundo0 {
     width: 425px;
     margin-bottom: -165px;
-    margin-top: 20px;
-    translate: -35px;
+    margin-top: 10px;
+    translate: -40px;
     
     
 }
@@ -71,6 +74,7 @@ container1 > fundo0 {
 #fundo1 {
     width: 425px;
     margin-bottom: -165px;
+    translate: -40px;
        
 }
 
@@ -82,8 +86,7 @@ container1 > fundo0 {
 #fundo2 {
     width: 425px;
     margin-bottom: -210px;
+    translate: -40px;
 }
 
-#baixo {
 
-}
