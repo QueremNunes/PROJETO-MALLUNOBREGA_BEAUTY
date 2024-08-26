@@ -32,6 +32,7 @@ img {
 
 #meio {
     margin-top: -340px;
+   
 }
 
 /*link*/
@@ -57,6 +58,7 @@ container1 > fundo0 {
     width: 425px;
     margin-bottom: -165px;
     margin-top: 20px;
+    translate: -35px;
     
     
 }
