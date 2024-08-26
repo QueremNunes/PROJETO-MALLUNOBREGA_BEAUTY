@@ -2,8 +2,18 @@
 
 body {
     background-color: black;
+    text-align: center;
 }
 
 h1 {
     color: white;
+}
+
+img {
+ width: 600px;
+margin-bottom: -100px;
+}
+
+.foto {
+    width: 250px;
 }
