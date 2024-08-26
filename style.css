@@ -24,7 +24,7 @@ body {
 
 img {
     width: 500px; 
-    margin-bottom: -150px;
+    margin-bottom: -100px;
     
 }
 #logo {
@@ -61,7 +61,7 @@ container1 > fundo0 {
     width: 425px;
     margin-bottom: -165px;
     margin-top: 10px;
-    translate: -40px;
+    translate: -45px;
     
     
 }
@@ -74,7 +74,7 @@ container1 > fundo0 {
 #fundo1 {
     width: 425px;
     margin-bottom: -165px;
-    translate: -40px;
+    translate: -50px;
        
 }
 
@@ -86,7 +86,9 @@ container1 > fundo0 {
 #fundo2 {
     width: 425px;
     margin-bottom: -210px;
-    translate: -40px;
+    translate: -20px;
 }
 
-
+#baixo {
+    margin-top: 100px;
+}
