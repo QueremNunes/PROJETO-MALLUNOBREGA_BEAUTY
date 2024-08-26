@@ -1,77 +1,79 @@
 @charset "UTF-8";
 
-body {
+/*body {
  background-color: black;
  background-image: url(IMG/logo.png);
  background-size: 250px;
  background-repeat: no-repeat;
  background-position: top center;
- /*margin-top: 300px;*/
  text-align: center;
  color: white;
  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-size: 15px;
+}*/
+
+body {
+    background-color: black;
+    text-align: center;
+    margin: 0%;
     
 }
 
+img {
+    width: 500px; 
+    margin-bottom: -100px;
+}
+#logo {
+    width: 50%
+}
+
+#meio {
+    margin-top: -340px;
+}
+
+/*link*/
 a {
     text-decoration: none;
     color: burlywood;
 }
 
-img {
-    width: 100%;
-}
 
-/*h1 {
-    color: white;
-
-}*/
 
 container1 > h1{
     display: inline-block;
-    position: relative;
+    position: relative; */
 
 }
+
 
 #cilios {
     position: relative;
-    top: 279px;
+    top: 125px;
 }
-#dourado0 {
-    width: 300px;
-    margin-top: 200px;
-    margin-bottom: -70px;
+#fundo0 {
+    width: 500px;
+    margin-top: -15px;
+    margin-bottom: -210px;
+    
 }
 
 
-#sobrancelha {
+#make {
     position: relative;
-    top: 85px;
+    top: 145px;
 }
-#dourado1 {
-    width: 300px;
-    margin-bottom: -80px;
+#fundo1 {
+    width: 500px;
+    margin-bottom: -210px;
        
 }
 
 
-#maquiagem {
+#design {
     position: relative;
-    top: 90px;
+    top: 155px;
 }
-#dourado2 {
-    width: 300px;
-    margin-top: 10px;
-}
-
-
-
-#penteado {
-    position: relative;
-    top: 10px;
-}
-#dourado3 {
-    width: 300px;
-    margin-top: -80px;
-    
-}
+#fundo2 {
+    width: 500px;
+    margin-bottom: -210px;
+};
