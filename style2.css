@@ -3,15 +3,21 @@
 body {
     background-color: black;
     text-align: center;
+    color: white;
+    font-size: 14px;
 }
 
-h1 {
-    color: white;
+#social {
     margin-top: -100px;
 }
 
+#noiva {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
 img {
- width: 600px;
+ width: 300px;
 }
 
 .foto {
