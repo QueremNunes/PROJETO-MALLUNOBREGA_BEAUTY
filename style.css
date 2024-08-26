@@ -42,7 +42,10 @@ a {
 
 container1 > h1{
     display: inline-block;
-    position: relative; */
+    position: relative; 
+    align-items: center;
+    text-align: center;
+    justify-content: center;
 
 }
 
