@@ -25,5 +25,9 @@ img {
 }
 
 .foto {
-    width: 250px;
+    width: 200px;
+}
+
+a {
+    color: white;
 }
