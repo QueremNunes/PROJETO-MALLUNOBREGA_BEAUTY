@@ -35,7 +35,7 @@ img {
 /*link*/
 a {
     /*text-decoration: none;*/
-    color: burlywood;
+    color: white;
 }
 
 
@@ -67,7 +67,7 @@ container1 > fundo0 {
 #fundo1 {
     width: 425px;
     margin-bottom: -165px;
-    margin-left: 45px;
+    margin-left: -25px;
     
        
 }
@@ -80,7 +80,7 @@ container1 > fundo0 {
 #fundo2 {
     width: 425px;
     margin-bottom: -210px;
-    margin-left: -45px;
+    margin-left: -25px;
     
 }
 
