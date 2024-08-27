@@ -19,6 +19,14 @@ h1 {
 img {
     width: 200px;
     /*margin-right: 150px;*/
+    
+}
+
+
+#fotos {
+    /*border-radius: 50px;*/
+    box-shadow: 6px 2px 4px 2px rgba(255, 255, 255, 0.803);
+    transform: rotate(85deg);
 }
 
 a {
