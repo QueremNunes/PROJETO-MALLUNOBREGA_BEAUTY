@@ -1,17 +1,17 @@
 @charset "UTF-8";
 
-/** {
-    margin: 0px;
-    padding: 0px;
-}*/
+
+@import url('https://fonts.googleapis.com/css2?family=Elsie:wght@400;900&display=swap');
+
 
 body {
     background-color: black;
     text-align: center;
     margin: 0%;
     overflow: hidden;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 10px
+    font-family: "Elsie", serif;
+    font-size: 11.5px;
+    font-weight: normal;
     
     
 }
@@ -34,7 +34,7 @@ img {
 
 /*link*/
 a {
-    /*text-decoration: none;*/
+    text-decoration: none;
     color: white;
 }
 
@@ -49,7 +49,7 @@ container1 > fundo0 {
 
 #cilios {
     position: relative;
-    top: 120px;
+    top: 125px;
 }
 #fundo0 {
     width: 425px;
