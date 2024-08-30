@@ -26,7 +26,7 @@ body {
 }
 
 img {
- width: 300px;
+ width: 200px;
 }
 
 .foto {
@@ -40,10 +40,9 @@ a {
 
 
 #whats {
-    font-size: 15px;
-    font-weight: normal;
+    font-size: 15px;   
 }
 
 #whatsapp {
-    width: 20px;
+    width: 17px;
 }
