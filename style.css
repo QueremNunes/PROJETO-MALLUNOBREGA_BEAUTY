@@ -49,25 +49,25 @@ container1 > fundo0 {
 
 #cilios {
     position: relative;
-    top: 125px;
+    top: 115px;
 }
 #fundo0 {
-    width: 425px;
-    margin-bottom: -165px;
-    margin-top: 10px;
-    margin-left: -25px;
+    width: 420px;
+    margin-bottom: -150px;
+    margin-top: -10px;
+    margin-left: -5px;
     
 }
 
 
 #make {
     position: relative;
-    top: 115px;
+    top: 145px;
 }
 #fundo1 {
-    width: 425px;
-    margin-bottom: -165px;
-    margin-left: -25px;
+    width: 420px;
+    margin-bottom: -180px;
+    margin-left: -5px;
     
        
 }
@@ -75,12 +75,12 @@ container1 > fundo0 {
 
 #design {
     position: relative;
-    top: 115px;
+    top: 175px;
 }
 #fundo2 {
-    width: 425px;
+    width: 420px;
     margin-bottom: -210px;
-    margin-left: -25px;
+    margin-left: -5px;
     
 }
 
