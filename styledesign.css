@@ -5,9 +5,10 @@
 body {
     background-color: black;
     text-align: center;
-    color: white;
+    color: #f3d54b;
     font-size: 14px;
     font-family: "Elsie", serif;
+
 }
 
 #cima {
@@ -17,6 +18,25 @@ body {
 
 img {
     width: 200px;
+   
+}
+
+#um {
+    margin-bottom: 200px;
+}
+p {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+#fundo {
+    width: 340px;
+}
+
+#agendamentos {
+    margin-top: -85px;
+    margin-bottom: 40px;
+
 }
 
 a {

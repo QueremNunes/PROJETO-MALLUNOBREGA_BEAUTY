@@ -6,7 +6,7 @@
 body {
     background-color: black;
     text-align: center;
-    color: white;
+    color: #f3d54b;
     font-size: 14px;
     font-family: "Elsie", serif;
 }
@@ -39,6 +39,15 @@ a {
 }
 
 
+#fundo {
+    width: 340px;
+}
+
+#agendamentos {
+    margin-top: -85px;
+    margin-bottom: 40px;
+
+}
 #whats {
     font-size: 15px;   
 }
