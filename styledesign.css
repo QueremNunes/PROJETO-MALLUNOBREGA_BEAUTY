@@ -22,11 +22,13 @@ img {
 }
 
 #um {
-    margin-bottom: 200px;
+    margin-bottom: 120px;
 }
 p {
     font-size: 15px;
     margin-top: 10px;
+    color: white;
+    padding-top: 35px;
 }
 
 #fundo {
